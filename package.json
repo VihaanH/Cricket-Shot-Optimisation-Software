@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Cricket Application that determines the most energy-efficient shots to play depending on wind speeds, direction and dimensions of the cricket ground.",
+  "main": "Cricket Project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cricket",
+    "Energy-efficient-shots",
+    "Air-resistance-affected-projectile"
+  ],
+  "author": "VihaanH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
